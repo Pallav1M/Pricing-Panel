@@ -8,3 +8,4 @@ This project will dispaly a pricing panel for three categories - Personal, Small
 For best result, please use Google Chrome.
 
 **How to run the HTML file ?**
+Go to **Settings**. Scroll down to **GitHub Pages**. Select the branch to be **main**. Click **Save**. Click the link to view the web page. 
